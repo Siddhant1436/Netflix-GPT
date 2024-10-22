@@ -26,5 +26,15 @@
 
 - Implemented Sign In user Api
 - Created Redux store with userSlice
+- Implemented Sign Out
+- Update Profile
+- BigFix: Sign up user displayName and profilce picture update
+- BugFix: if the user is not loged in Redirect to /browse and if logges in the redirect to /login
+- Unsubscribe to onAuthStateChanged callback
+- Added hardcoded values to the Constants file
+- Registered TMDB API and created an app
 
 # Formik - to build forms in React easily
+
+
+# Inside JSX alway use camelCasing.
