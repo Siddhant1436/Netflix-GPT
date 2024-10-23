@@ -33,6 +33,10 @@
 - Unsubscribe to onAuthStateChanged callback
 - Added hardcoded values to the Constants file
 - Registered TMDB API and created an app
+- Got the data TMDB now playing movies list API
+- Custom hook for now playing movies
+- Create Movie Slice
+- Updated the store with Movies Data
 
 # Formik - to build forms in React easily
 
